@@ -1,6 +1,6 @@
 Original Author's article
 https://senderend.medium.com/my-oscp-privilege-escalation-server-scripts-5fc2dda1578c
-command shortening
+Anti-Virus detection simulator
 
 # sender's Hackbook
 
